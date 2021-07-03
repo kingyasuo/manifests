@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
-  <remote fetch="https://android.googlesource.com" name="aosp"/>
+  <remote fetch="https://mirrors.tuna.tsinghua.edu.cn/git/AOSP" name="aosp"/>
 
   <!-- AOSP -->
   <project path="build/blueprint" name="platform/build/blueprint" groups="pdk,tradefed" />
